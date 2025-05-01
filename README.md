@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameramuhammed&label=Profile%20views&color=0e75b6&style=flat" alt="ameramuhammed" /> </p>
 
 <p float="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdndXowaXg3OW8xdW1uZ2V3Y3RiN2ZxY2N3emhsenRwdHF1cmRxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400" align="right" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdndXowaXg3OW8xdW1uZ2V3Y3RiN2ZxY2N3emhsenRwdHF1cmRxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300" align="right" />
   
   - 🔭 I'm a Senior <strong>at Faculty of Computer Science and Artificial Intelligence at Benha University</strong><br>
   - 🌱 I'm currently learning <strong>Data Science and Machine Learning Algorithms</strong><br>
